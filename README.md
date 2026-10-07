@@ -22,16 +22,16 @@ The reports focus on Profit & Loss (P&L) analysis across different fiscal years,
 - Microsoft Excel
 
 ## 💡 Key Skills Demonstrated
-Data cleaning 
-Data aggregation
-Data analysis
-Pivot Table analysis
-Data visualization
-Excel reporting
-Sales performance analysis
-Target vs actual analysis
-Customer performance analysis
-Product performance analysis
+- Data cleaning 
+- Data aggregation
+- Data analysis
+- Pivot Table analysis
+- Data visualization
+- Excel reporting
+- Sales performance analysis
+- Target vs actual analysis
+- Customer performance analysis
+- Product performance analysis
 
 ## 🎯 Objective
 This project transforms raw finance data into meaningful business insights using Excel.
